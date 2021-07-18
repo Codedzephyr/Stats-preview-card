@@ -9,7 +9,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 
@@ -23,7 +22,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./Screenshot.png)
+![](./Screenshot.jpeg)
 
 ### Links
 
@@ -46,4 +45,4 @@ Using Padding and Margin more effectively. Learnt about blend mode with image ta
 
 - Website - [Salihu Andulhamid](https://infallible-pike-a0b433.netlify.app/)
 - Frontend Mentor - [@Codedzephyr](https://www.frontendmentor.io/profile/Codedzephyr)
-- Twitter - [@dimah](https://www.twitter.com/dimah)
+- Twitter - [@dimah](https://www.twitter.com/_dimah__)
